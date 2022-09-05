@@ -1,3 +1,1 @@
-a script that prints the absolute path name of the current working direc
-
-tory.
+current file
